@@ -1,23 +1,4 @@
-Basic Analysis
-How many unique countries are represented in the dataset? 
-What is the average employment rate across all countries? 
+# Social Media Usage
+# Project Objective:
 
-
-Social Media Trends 
-Which social media platform has the highest number of active users? 
-Identify the country with the most active users on TikTok in 2023. 
-
-
-Employment vs. Social Media Usage 
-Is there a correlation between employment rate and the number of active users? 
-Find the country with the highest employment rate and check which social media platform is most popular there. 
-
-
-Time-Based Analysis
-How has social media usage changed over the years in India?
-What is the trend in employment rates for the USA from 2010 to 2025? 
-
-
-Advanced Queries
-Group the data by country and calculate the total number of active users per country. 
-Determine which country has the highest social media penetration rate (Active Users / Population). 
+The goal of this project is to analyze the intersection of global employment trends and social media usage, delivering both foundational insights and advanced analytical perspectives. The analysis begins with assessing the global scope of the dataset, including the number of unique countries and the average employment rate. It further explores social media trends by identifying the most widely used platforms globally and pinpointing the leading countries in platform-specific usage, such as TikTok in 2023. A key focus will be examining the correlation between employment rates and social media activity to understand potential socio-economic impacts. Additionally, the project will provide time-based trend analyses of social media growth in India and employment trends in the USA from 2010 to 2025. Through advanced queries, the project will aggregate social media activity at the country level and determine penetration rates, ultimately identifying the country with the highest social media adoption relative to its population. The final output will support strategic insights for policymakers, marketers, and digital platforms.
